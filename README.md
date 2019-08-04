@@ -40,7 +40,9 @@ use the MovieLens dataset to buid a  moives  recommand system
 
 ### （0）电影推荐的别人做好的资料
 
-https://github.com/GavinHacker/recsys_core?tdsourcetag=s_pcqq_aiomsg
+#### 集训群里：https://github.com/GavinHacker/recsys_core?tdsourcetag=s_pcqq_aiomsg
+
+#### 宋姜：https://github.com/Taylorage/recommend_system
 
 
 ### （1）git入门（horse）
