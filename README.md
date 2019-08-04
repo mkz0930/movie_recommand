@@ -3,9 +3,9 @@ use the MovieLens dataset to buid a  moives  recommand system
 
 ##背景：july集训营8，movie-recommend项目
 
-##1.项目介绍
+## 1.项目介绍
 
-##2.通知
+## 2.通知
 ### （0）之前的。。。
 
 ### （1） 2019-8-7截止
@@ -32,20 +32,22 @@ use the MovieLens dataset to buid a  moives  recommand system
 	模型：训练参数，把用户性别，年龄这些维度加入
 	
 
-##3.学习与分享
+## 3.学习与分享
 
 
 
-##4.资料
+## 4.资料
 
 ###（0）电影推荐的别人做好的资料
 https://github.com/GavinHacker/recsys_core?tdsourcetag=s_pcqq_aiomsg
 
 
 ### （1）git入门（horse）
+
 [https://www.jianshu.com/p/fa7d2cf0a571](https://www.jianshu.com/p/fa7d2cf0a571)
 
-###（2）编写你的第一个 Django 应用，第 1 部分（宋姜）
+### （2）编写你的第一个 Django 应用，第 1 部分（宋姜）
+
 https://docs.djangoproject.com/zh-hans/2.1/intro/tutorial01/?tdsourcetag=s_pcqq_aiomsg
 
 1.19.08.04
