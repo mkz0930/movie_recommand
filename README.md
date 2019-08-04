@@ -1,7 +1,7 @@
 # movie_recommand
 use the MovieLens dataset to buid a  moives  recommand system
 
-##背景：july集训营8，movie-recommend项目
+## 背景：july集训营8，movie-recommend项目
 
 ## 1.项目介绍
 
@@ -38,7 +38,8 @@ use the MovieLens dataset to buid a  moives  recommand system
 
 ## 4.资料
 
-###（0）电影推荐的别人做好的资料
+### （0）电影推荐的别人做好的资料
+
 https://github.com/GavinHacker/recsys_core?tdsourcetag=s_pcqq_aiomsg
 
 
